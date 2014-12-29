@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery
+	galleryStyle="MODERN"
+	title="SimpleViewer Gallery"
+	textColor="FFFFFF"
+	frameColor="FFFFFF"
+	frameWidth="0"
+	thumbPosition="BOTTOM"
+	thumbColumns="6"
+	thumbRows="1"
+	showOpenButton="TRUE"
+	showFullscreenButton="TRUE"	
+	maxImageWidth="640"
+	maxImageHeight="640"
+	useFlickr="false"
+	flickrUserName=""
+	flickrTags=""
+	languageCode="AUTO"
+	languageList=""		
+	imagePath="images/images/"
+	thumbPath="images/thumbs/"
+>	
+<image imageURL="images/images/Out-of-the-Subway.jpg" thumbURL="images/thumbs/Out-of-the-Subway.jpg" linkURL="" linkTarget="" >
+	<caption>Out of the Subway  -Shane Witnov</caption>	
+</image>
+<image imageURL="images/images/A Girl's Chores.JPG" thumbURL="images/thumbs/A Girl's Chores.JPG" linkURL="" linkTarget="" >
+	<caption>A Girl's Chores -Jackie McMahon</caption>	
+</image>
+<image imageURL="images/images/Afternoon Perplexity.JPG" thumbURL="images/thumbs/Afternoon Perplexity.JPG" linkURL="" linkTarget="" >
+	<caption>Afternoon Perplexity -Jackie McMahon</caption>	
+</image>
+<image imageURL="images/images/August's Arms.JPG" thumbURL="images/thumbs/August's Arms.JPG" linkURL="" linkTarget="" >
+	<caption>August's Arms -Jackie McMahon</caption>	
+</image>
+<image imageURL="images/images/Casual Sarcasm.JPG" thumbURL="images/thumbs/Casual Sarcasm.JPG" linkURL="" linkTarget="" >
+	<caption>Casual Sarcasm -Jackie McMahon</caption>	
+</image>
+<image imageURL="images/images/Fresh Affection.JPG" thumbURL="images/thumbs/Fresh Affection.JPG" linkURL="" linkTarget="" >
+	<caption>Fresh Affection -Jackie McMahon</caption>	
+</image>
+<image imageURL="images/images/Mazed Back Alleyways.JPG" thumbURL="images/thumbs/Mazed Back Alleyways.JPG" linkURL="" linkTarget="" >
+	<caption>Mazed Back Alleyways -Jackie McMahon</caption>	
+</image>
+<image imageURL="images/images/Modern Curves.JPG" thumbURL="images/thumbs/Modern Curves.JPG" linkURL="" linkTarget="" >
+	<caption>Modern Curves -Jackie McMahon</caption>	
+</image>
+<image imageURL="images/images/snack shop.JPG" thumbURL="images/thumbs/snack shop.JPG" linkURL="" linkTarget="" >
+	<caption>Snack Shop -Jackie McMahon</caption>	
+</image>
+<image imageURL="images/images/Lazy Days in Beijing.JPG" thumbURL="images/thumbs/Lazy Days in Beijing.JPG" linkURL="" linkTarget="" >
+	<caption>Lazy Days in Beijing -Rylan Burns</caption>	
+</image>
+<image imageURL="images/images/Migrant Worker.JPG" thumbURL="images/thumbs/Migrant Worker.JPG" linkURL="" linkTarget="" >
+	<caption>Migrant Worker -Jason Foong</caption>	
+</image>
+<image imageURL="images/images/The Yell.JPG" thumbURL="images/thumbs/The Yell.JPG" linkURL="" linkTarget="" >
+	<caption>The Yell -Jason Foong</caption>	
+</image>
+<image imageURL="images/images/Love in Hangzhou.JPG" thumbURL="images/thumbs/Love in Hangzhou.JPG" linkURL="" linkTarget="" >
+	<caption>Love in Hangzhou -Patricia Joong</caption>	
+</image>
+<image imageURL="images/images/Skyscrapers1.JPG" thumbURL="images/thumbs/Skyscrapers1.JPG" linkURL="" linkTarget="" >
+	<caption>Skyscrapers -Ken Lau</caption>	
+</image>
+<image imageURL="images/images/Skyscrapers2.JPG" thumbURL="images/thumbs/Skyscrapers2.JPG" linkURL="" linkTarget="" >
+	<caption>Skyscrapers -Ken Lau</caption>	
+</image>
+<image imageURL="images/images/Skyscrapers3.JPG" thumbURL="images/thumbs/Skyscrapers3.JPG" linkURL="" linkTarget="" >
+	<caption>Skyscrapers -Ken Lau</caption>	
+</image>
+<image imageURL="images/images/Chairman Mao and Bentley.JPG" thumbURL="images/thumbs/Chairman Mao and Bentley.JPG" linkURL="" linkTarget="" >
+	<caption>Chairman Mao and Bentley -Tyler Lau</caption>	
+</image>
+<image imageURL="images/images/Dreaming Marriage.JPG" thumbURL="images/thumbs/Dreaming Marriage.JPG" linkURL="" linkTarget="" >
+	<caption>Dreaming Marriage -Tyler Lau</caption>	
+</image>
+<image imageURL="images/images/Fortress Walls.JPG" thumbURL="images/thumbs/Fortress Walls.JPG" linkURL="" linkTarget="" >
+	<caption>Fortress Walls -Tyler Lau</caption>	
+</image>
+<image imageURL="images/images/Shopping.JPG" thumbURL="images/thumbs/Shopping.JPG" linkURL="" linkTarget="" >
+	<caption>Shopping -Tyler Lau</caption>	
+</image>
+<image imageURL="images/images/Silk Road.JPG" thumbURL="images/thumbs/Silk Road.JPG" linkURL="" linkTarget="" >
+	<caption>The Silk Road -Tyler Lau</caption>	
+</image>
+<image imageURL="images/images/Road to Prosperity.JPG" thumbURL="images/thumbs/Road to Prosperity.JPG" linkURL="" linkTarget="" >
+	<caption>Road to Prosperity - Fang Lee</caption>	
+</image>
+<image imageURL="images/images/Language Difficulty.JPG" thumbURL="images/thumbs/Language Difficulty.JPG" linkURL="" linkTarget="" >
+	<caption>Language Difficulty -Rona Lee</caption>	
+</image>
+<image imageURL="images/images/Communal Pond.JPG" thumbURL="images/thumbs/Communal Pond.JPG" linkURL="" linkTarget="" >
+	<caption>Communal Pond -Erica Swallow</caption>	
+</image>
+<image imageURL="images/images/Atop the Great Wall.JPG" thumbURL="images/thumbs/Atop the Great Wall.JPG" linkURL="" linkTarget="" >
+	<caption>Atop the Great Wall - David Szerlip</caption>	
+</image>
+<image imageURL="images/images/Mongs of Drepung.JPG" thumbURL="images/thumbs/Mongs of Drepung.JPG" linkURL="" linkTarget="" >
+	<caption>Monks of Drepung - David Szerlip</caption>	
+</image>
+<image imageURL="images/images/Suzhou Canals.JPG" thumbURL="images/thumbs/Suzhou Canals.JPG" linkURL="" linkTarget="" >
+	<caption>Suzhou Canals - David Szerlip</caption>	
+</image>
+<image imageURL="images/images/Woman in West China.JPG" thumbURL="images/thumbs/Woman in West China.JPG" linkURL="" linkTarget="" >
+	<caption>Woman in West China -David Szerlip</caption>	
+</image>
+<image imageURL="images/images/Contemplation.JPG" thumbURL="images/thumbs/Contemplation.JPG" linkURL="" linkTarget="" >
+	<caption>Contemplation -Thomas Wu</caption>	
+</image>
+<image imageURL="images/images/Emergence.JPG" thumbURL="images/thumbs/Emergence.JPG" linkURL="" linkTarget="" >
+	<caption>Emergence -Thomas Wu</caption>	
+</image>
+<image imageURL="images/images/Industry.JPG" thumbURL="images/thumbs/Industry.JPG" linkURL="" linkTarget="" >
+	<caption>Industry -Thomas Wu</caption>	
+</image>
+<image imageURL="images/images/Tree in a Droplet.JPG" thumbURL="thumbs/Tree in a Droplet.JPG" linkURL="" linkTarget="" >
+	<caption>Tree in a Droplet -Thomas Wu</caption>	
+</image>
+<image imageURL="images/images/Westernization.JPG" thumbURL="images/thumbs/Westernization.JPG" linkURL="" linkTarget="" >
+	<caption>Westernization -Thomas Wu</caption>	
+</image>
+
+</simpleviewergallery>
