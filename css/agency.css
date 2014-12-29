@@ -426,6 +426,10 @@ section h3.section-subheading {
     margin-top: 0;
 }
 
+.senior_advisor {
+    font-weight: bold;
+}
+
 aside.clients img {
     margin: 50px auto;
 }
