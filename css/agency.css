@@ -250,7 +250,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    text-align: center;
+    text-align: left;
     color: #fff;
     background-attachment: scroll;
     background-image: url(../img/header-bg.jpg);
@@ -271,7 +271,7 @@ header .intro-text {
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 200px;
-        padding-bottom: 200px;
+        padding-bottom: 100px;
     }
 
     header .intro-text .intro-lead-in {
